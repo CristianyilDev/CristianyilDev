@@ -13,7 +13,7 @@ Poseo disponibilidad inmediata y flexibilidad de horario.</p>
 <div style="display: flex; align-items: center;">
   
  <p align="center">
-  <img src="images/aclosed.png" alt="aclosed" width="150" height="150" style="border-radius: 50%;">
+  <img src="images/aclosed2.png" alt="aclosed" width="200" height="200" style="border-radius: 50%;">
 </p>
 
   <p align="left">vdfgbb fbdfghfdbfb</p>
