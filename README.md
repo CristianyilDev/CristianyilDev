@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/portfolio.jpeg" alt="java" width="550" height="600" style="border-radius: 55px;">
-</p>
+
 
 <h1 align="center">Hola 👋, Soy Cristian Gil Becerra</h1>
 <h3 align="center">Junior Software Developer</h3>
