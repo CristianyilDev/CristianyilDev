@@ -8,6 +8,17 @@ Me llama la atención el mundo del Big Data, por lo que seria de mis preferencia
 Poseo disponibilidad inmediata y flexibilidad de horario.</p>
 <h2>Proyectos</h2>
 
+<h3>Aclosed</h3>
+<br>
+<div style="display: flex; align-items: center;">
+  
+ <p align="center">
+  <img src="images/aclosed.png" alt="aclosed" width="150" height="150" style="border-radius: 50%;">
+</p>
+
+  <p align="left">vdfgbb fbdfghfdbfb</p>
+</div>
+
 
 <h2>Habilidades y contactar</h2>
 
