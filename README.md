@@ -1,3 +1,4 @@
+img src="images/portfolio.jpeg" alt="java" width="200" height="400"/>
 <h1 align="center">Hola 👋, Soy Cristian Gil Becerra</h1>
 <h3 align="center">Junior Software Developer</h3>
 <h2>Sobre mi:</h2>
