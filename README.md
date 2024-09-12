@@ -1,5 +1,6 @@
-<h1 align="center">Hola👋, Soy Cristian Gil Becerra</h1>
+<h1 align="center">Hola 👋, Soy Cristian Gil Becerra</h1>
 <h3 align="center">Junior Software Developer</h3>
+<h3 aling = "center">Sobre mi:</h3>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
