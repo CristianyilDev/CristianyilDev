@@ -1,8 +1,12 @@
 <h1 align="center">Hola 👋, Soy Cristian Gil Becerra</h1>
 <h3 align="center">Junior Software Developer</h3>
 <h2>Sobre mi:</h2>
+<p>Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma recién graduado. Me encanta a lo que me dedico y siempre tengo más ganas de aprender. Domino el lenguaje Java en un nivel bastante alto, lo que me facilita el aprendizaje de otros lenguajes.
+Me llama la atención el mundo del Big Data, por lo que seria de mis preferencias.
+Poseo disponibilidad inmediata y flexibilidad de horario.</p>
 
 <h2>Habilidades y contactar</h2>
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cristiangilbecerra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cristiangilbecerra/" height="30" width="40" /></a>
