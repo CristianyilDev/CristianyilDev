@@ -16,7 +16,7 @@ Poseo disponibilidad inmediata y flexibilidad de horario.</p>
   <img src="images/aclosed2.png" alt="aclosed" width="200" height="200" style="border-radius: 50%;">
 </p>
 
-  <p>Una aplicación ideal para las personas que se estresan eligiendo ropa o que no tienen idea de que ponerse nunca, este se encarga de la gestión de todo tu armario pudiendo elegir desde tu cama que ponerte. Algo innovador, hay poca competencia en el mercado, quiero mejorarlo y sacarlo a Play Store <a href="" >ver mas</a></p> 
+  <p>Una aplicación ideal para las personas que se estresan eligiendo ropa o que no tienen idea de que ponerse nunca, este se encarga de la gestión de todo tu armario pudiendo elegir desde tu cama que ponerte. Algo innovador, hay poca competencia en el mercado, quiero mejorarlo y sacarlo a Play Store <a href="https://github.com/CristianyilDev/aclosed.git" >ver mas</a></p> 
 </div>
 
 
